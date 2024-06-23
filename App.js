@@ -14,14 +14,7 @@ const Stack = createNativeStackNavigator();
 export default function App() {
 
 
-  const handlePress = () => {
-    console.log('En savoir plus')
-    // navigation.navigate('MovieScreen', {
-    //     title: props.title,
-    //     poster_path: props.poster_path,
-    //     // Ajoutez d'autres propriétés que vous souhaitez passer ici
-    // });
-};
+
 
 
   return (
